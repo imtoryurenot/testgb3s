@@ -67,3 +67,4 @@ To add link to a text to this:
 6. send those changes on our account (push)
 7. In the Github a pull request is now visible and available 
 >>>>
+<<<<<>>>>>
